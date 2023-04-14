@@ -1,4 +1,4 @@
-# XXX
+# A deep-learning-based denoiser: to reconstruct ground displacement from the original MPIC, which is applicable if at least nine optical image correlation maps are available.
 
 # Installation
 ## Basic
