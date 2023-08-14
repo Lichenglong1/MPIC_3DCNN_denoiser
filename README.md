@@ -18,5 +18,5 @@ pip install -r requirements.txt
 
 # Prediction
 ```shell
-python 3DCNN_denoiser_MPIC.py
+python MPIC-predicting.py
 ```
